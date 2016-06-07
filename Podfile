@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.0'
+pod 'AFNetworking', '~> 2.5'
+pod 'JAMValidatingTextField'
+pod 'TSValidatedTextField', '~> 1.0'
+pod 'SVProgressHUD'
